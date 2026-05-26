@@ -1,0 +1,26 @@
+=== ISLE OF DREAD — LORE DOCUMENT ===
+
+The Isle of Dread sits in the far northeastern ocean, perpetually shrouded in fog.
+Only seasoned adventurers dare approach its jagged shores.
+
+History:
+The Isle was once home to the Cult of the Void Wyrm, a sect of mages who
+attempted to bind an ancient dragon named Vorynthas to their will.
+The ritual failed. Vorynthas shattered the ritual circle, killing all seventeen
+cultists. Their souls are said to still haunt the crumbling tower at the isle's
+center, now known as the Tower of Regret.
+
+Creatures:
+- Void Wraiths (level 4-6, spectral, immune to poison)
+- Corrupted Sea Drakes (level 5-7, fire breath, coastal zones)
+- Vorynthas the Desolator (boss, level 12, fire + void breath, spawns weekly)
+
+Treasure:
+- Cultist Robe of the Void (artifact, +10 magery, 15% spell damage increase)
+- Shard of the Shattered Circle (crafting reagent for high-level runic weapons)
+- Vorynthas Scale (rare trophy, can be traded to Blacksmyth NPCs for unique recipes)
+
+Access:
+- Players must complete the "Echoes of the Void" quest chain first.
+- The isle appears on the map only after speaking with the Cartographer NPC
+  in Moonglow (located at 23N, 45W).
